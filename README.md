@@ -2,7 +2,7 @@
 
 ## ⭐️ Sobre mim
 
-Sou estudante em <b>Análise e Desenvolvimento de sistemas</b> atualmente estou me desenvolvendo na carreira da tecnologia com foco em analise de dados. Por aqui gosto de compartilhar meus projetos em desenvolvimento. Atualmente estou estudando Python e venho trazer repositórios sobre.
+Sou estudante em <b>Análise e Desenvolvimento de sistemas</b> e atualmente estou me desenvolvendo na carreira da tecnologia com foco em analise de dados. Por aqui gosto de compartilhar meus projetos em desenvolvimento. Atualmente estou estudando Python e venho trazer repositórios sobre.
 
 
 ## 🌐 Socials:
