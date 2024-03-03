@@ -5,6 +5,7 @@
 ## ⭐️ Sobre mim
 
 Sou estudante em <b>Análise e Desenvolvimento de sistemas</b> e atualmente estou me desenvolvendo na carreira da tecnologia com foco em analise de dados. Por aqui gosto de compartilhar meus projetos em desenvolvimento. Atualmente estou estudando Python e venho trazer repositórios sobre.
+<img src="https://visitor-badge.laobi.icu/badge?page_id=SarahOliveiraPy.SarahOliveiraPy&left_color=cornflowerblue&right_color=magenta"  />
 
 
 ## 🌐 Socials:
@@ -15,6 +16,7 @@ Sou estudante em <b>Análise e Desenvolvimento de sistemas</b> e atualmente esto
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+    <img align="center" alt="MySQL" title="MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
 </div>
   
 
