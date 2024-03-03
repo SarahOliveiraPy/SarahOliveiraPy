@@ -1,5 +1,7 @@
 # Hello World, I'm Sarah Oliveira, be very welcome
 
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+
 ## ⭐️ Sobre mim
 
 Sou estudante em <b>Análise e Desenvolvimento de sistemas</b> e atualmente estou me desenvolvendo na carreira da tecnologia com foco em analise de dados. Por aqui gosto de compartilhar meus projetos em desenvolvimento. Atualmente estou estudando Python e venho trazer repositórios sobre.
