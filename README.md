@@ -11,13 +11,7 @@
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
   
-  ##
- 
-<div> 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=SarahOliveiraPy&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=SarahOliveiraPy&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SarahOliveiraPy&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
 
 
 ---
