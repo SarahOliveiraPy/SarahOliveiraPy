@@ -1,4 +1,4 @@
-# Hello World,🙋🏻‍♀️ I'm Sarah Oliveira, be very welcome 
+# Hello World,🙋🏻‍♀️ I'm Sarah Oliveira, be very welcome
 ![Animação1](https://github.com/SarahOliveiraPy/SarahOliveiraPy/assets/161997202/6ccb5c58-8e0c-40f7-9520-cd3207495fc4)
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
