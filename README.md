@@ -5,7 +5,7 @@
 
 ## ⭐️ Sobre mim 
 
-Sou estudante em <b>Análise e Desenvolvimento de sistemas</b> e atualmente estou me desenvolvendo na carreira da tecnologia com foco em analise de dados. Por aqui gosto de compartilhar meus projetos em desenvolvimento. Atualmente estou estudando Python e venho trazer repositórios sobre.
+Sou estudante em <b>Análise e Desenvolvimento de sistemas</b> e atualmente estou me desenvolvendo na carreira da tecnologia com foco em Scrum Master. Por aqui gosto de compartilhar meus projetos em desenvolvimento. Atualmente estou estudando Python e venho trazer repositórios sobre.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/sarahh_moonw/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sarah-ferreira-dias-de-o-10b963231/) 
